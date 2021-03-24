@@ -1,4 +1,7 @@
 """
+This is the main file used for booking the flight ticket.
+Run this file only after you have launced initiate.py file. Otherwise this file will show error.
+initiate.py file is used to create a new data base including passenger list and rows in business  and econmoy class.
 
 """
 
@@ -52,3 +55,4 @@ if __name__ == "__main__":
     book_id = P1.generate_id()
     P1.ticket(book_id=book_id)
     P1.storeData(book_id = book_id)
+    
