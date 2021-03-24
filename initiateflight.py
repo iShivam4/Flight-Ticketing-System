@@ -38,5 +38,6 @@ if __name__ == "__main__":
     with open("passengers_data.pkl", 'wb') as passenger_data:
         pickle.dump(passengers, passenger_data)
 
-    print("Successfully seats are allocated in the flight")
+    print("Seats are assigned Successfully in the flight")
     close = input('Press q to exit: ')
+    
