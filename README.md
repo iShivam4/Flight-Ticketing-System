@@ -3,23 +3,23 @@ In this project, I have used OOPs concept in python to create a Flight Ticketing
 
 This project contains three python files and three pkl file as follows:
 
-  1. initiate.py -->
-      Before executing main.py file, please execute initiate.py file. This file works a server side file used for allocation of seats in flight.
+1. initiate.py -->
+    Before executing main.py file, please execute initiate.py file. This file works a server side file used for allocation of seats in flight.
 
-  2. main.py -->
-      This file is the main file of the project. This file works a client side file. This program asks for all the neccessary information required to book a ticket.
+2. main.py -->
+    This file is the main file of the project. This file works a client side file. This program asks for all the neccessary information required to book a ticket.
 
-  3. flight.py -->
-      This is the file which contains all the classes defined in it that are required for the project to work. Here, I have defined classes like Generate(), Seat(), SeatBooking(), etc.
+3. flight.py -->
+    This is the file which contains all the classes defined in it that are required for the project to work. Here, I have defined classes like Generate(), Seat(), SeatBooking(), etc.
 
-  4.passengers_data.pkl -->
-      This file contains the information about passengers whose tickets has been booked in the form and dictanory in which key is booking_id and value is information entered by person.
+4.passengers_data.pkl -->
+    This file contains the information about passengers whose tickets has been booked in the form and dictanory in which key is booking_id and value is information entered by person.
 
-  5.flight_seat.pkl -->
-      This contains the information about total business rows and economy rows available in the flight.
+5.flight_seat.pkl -->
+    This contains the information about total business rows and economy rows available in the flight.
 
-  6.available_seat.pkl -->
-      This file contains the information about the vacant seats left for other passengers to booked the flight.
+6.available_seat.pkl -->
+    This file contains the information about the vacant seats left for other passengers to booked the flight.
 
 
 Snapshots of the final output:
