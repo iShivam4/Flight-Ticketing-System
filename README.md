@@ -19,10 +19,10 @@ This project contains three files -->
 4.passengers_data.pkl
     This file contains the information about passengers whose tickets has been booked in the form and dictanory in which key is booking_id and value is information entered by person.
     
-6.flight_seat.pkl
+5.flight_seat.pkl
     This contains the information about total business rows and economy rows available in the flight.
     
-8.available_seat.pkl
+6.available_seat.pkl
     This file contains the information about the vacant seats left for other passengers to booked the flight.
 
 
