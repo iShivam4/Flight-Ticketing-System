@@ -4,10 +4,10 @@ In this project, I have used OOPs concept in python to create a Flight Ticketing
 This project contains three python files and three pkl file as follows:
 
 1. initiate.py -->
-    Before executing main.py file, please execute initiate.py file. This file works a server side file used for allocation of seats in flight.
+    Before executing main.py file, please execute initiate.py file. This file works as a server side file used for allocation of seats in flight.
 
 2. main.py -->
-    This file is the main file of the project. This file works a client side file. This program asks for all the neccessary information required to book a ticket.
+    This file is the main file of the project. This file works as a client side file. This program asks for all the neccessary information required to book a ticket.
 
 3. flight.py -->
     This is the file which contains all the classes defined in it that are required for the project to work. Here, I have defined classes like Generate(), Seat(), SeatBooking(), etc.
